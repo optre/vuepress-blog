@@ -1886,10 +1886,6 @@
     source-map "~0.6.1"
     vue-template-es2015-compiler "^1.9.0"
 
-"@vuepress-reco/vuepress-plugin-extract-code@1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-extract-code/-/vuepress-plugin-extract-code-1.0.3.tgz#aed545a2ef13f52d92c1c904efc2225c89b99d2c"
-
 "@vuepress/core@^1.4.0":
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/@vuepress/core/-/core-1.4.0.tgz#a9b09a2615b1f0bf183541d22e69a126b8220f16"
@@ -2620,8 +2616,8 @@ bluebird@^3.1.1, bluebird@^3.5.1, bluebird@^3.5.3, bluebird@^3.5.5:
   resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.7.2.tgz#9f229c15be272454ffa973ace0dbee79a1b0c36f"
 
 bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.4.0:
-  version "4.11.8"
-  resolved "https://registry.yarnpkg.com/bn.js/-/bn.js-4.11.8.tgz#2cde09eb5ee341f484746bb0309b3253b1b1442f"
+  version "4.11.9"
+  resolved "https://registry.yarnpkg.com/bn.js/-/bn.js-4.11.9.tgz#26d556829458f9d1e81fc48952493d0ba3507828"
 
 body-parser@1.19.0:
   version "1.19.0"
@@ -4274,8 +4270,8 @@ elegant-spinner@^1.0.1:
   resolved "https://registry.yarnpkg.com/elegant-spinner/-/elegant-spinner-1.0.1.tgz#db043521c95d7e303fd8f345bedc3349cfb0729e"
 
 elliptic@^6.0.0:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/elliptic/-/elliptic-6.5.2.tgz#05c5678d7173c049d8ca433552224a495d0e3762"
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/elliptic/-/elliptic-6.5.3.tgz#cb59eb2efdaf73a0bd78ccd7015a62ad6e0f93d6"
   dependencies:
     bn.js "^4.4.0"
     brorand "^1.0.1"
