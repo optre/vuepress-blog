@@ -1886,10 +1886,6 @@
     source-map "~0.6.1"
     vue-template-es2015-compiler "^1.9.0"
 
-"@vuepress-reco/vuepress-plugin-extract-code@1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-extract-code/-/vuepress-plugin-extract-code-1.0.3.tgz#aed545a2ef13f52d92c1c904efc2225c89b99d2c"
-
 "@vuepress/core@^1.4.0":
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/@vuepress/core/-/core-1.4.0.tgz#a9b09a2615b1f0bf183541d22e69a126b8220f16"
@@ -8259,8 +8255,8 @@ pretty-time@^1.1.0:
   resolved "https://registry.yarnpkg.com/pretty-time/-/pretty-time-1.1.0.tgz#ffb7429afabb8535c346a34e41873adf3d74dd0e"
 
 prismjs@^1.13.0:
-  version "1.19.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.19.0.tgz#713afbd45c3baca4b321569f2df39e17e729d4dc"
+  version "1.21.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.21.0.tgz#36c086ec36b45319ec4218ee164c110f9fc015a3"
   optionalDependencies:
     clipboard "^2.0.0"
 
