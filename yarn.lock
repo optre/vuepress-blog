@@ -1886,10 +1886,6 @@
     source-map "~0.6.1"
     vue-template-es2015-compiler "^1.9.0"
 
-"@vuepress-reco/vuepress-plugin-extract-code@1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-extract-code/-/vuepress-plugin-extract-code-1.0.3.tgz#aed545a2ef13f52d92c1c904efc2225c89b99d2c"
-
 "@vuepress/core@^1.4.0":
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/@vuepress/core/-/core-1.4.0.tgz#a9b09a2615b1f0bf183541d22e69a126b8220f16"
@@ -7228,8 +7224,8 @@ node-fetch-npm@^2.0.2:
     safe-buffer "^5.1.1"
 
 node-fetch@^2.3.0, node-fetch@^2.5.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
 
 node-forge@0.9.0:
   version "0.9.0"
