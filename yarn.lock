@@ -1886,10 +1886,6 @@
     source-map "~0.6.1"
     vue-template-es2015-compiler "^1.9.0"
 
-"@vuepress-reco/vuepress-plugin-extract-code@1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-extract-code/-/vuepress-plugin-extract-code-1.0.3.tgz#aed545a2ef13f52d92c1c904efc2225c89b99d2c"
-
 "@vuepress/core@^1.4.0":
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/@vuepress/core/-/core-1.4.0.tgz#a9b09a2615b1f0bf183541d22e69a126b8220f16"
@@ -9952,8 +9948,8 @@ umask@^1.1.0:
   resolved "https://registry.yarnpkg.com/umask/-/umask-1.1.0.tgz#f29cebf01df517912bb58ff9c4e50fde8e33320d"
 
 underscore@^1.8.3:
-  version "1.10.2"
-  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.10.2.tgz#73d6aa3668f3188e4adb0f1943bd12cfd7efaaaf"
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.13.1.tgz#0c1c6bd2df54b6b69f2314066d65b6cde6fcf9d1"
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
